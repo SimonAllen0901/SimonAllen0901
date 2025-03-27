@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=simonallen0901&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=simonallen0901&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
